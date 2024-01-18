@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(161, 127, 255);
+    
+}
+header{
+    color: white;
+    text-align: center;
+    font-family: 'Tourney', sans-serif;
+}
+section{
+    font-weight: 700;
+    font-size: 30px;
+    font-family: 'Alumni Sans Pinstripe', sem serifa;
+    background: linear-gradient(#fff ,#eabeff ,rgb(161, 127, 255));
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    height: 50vh;
+    margin: auto;
+    text-align: center;      
+    box-shadow: black 3px 3px 10px ;
+    
+}
+section:hover{
+    background: linear-gradient(#eabeff ,rgb(161, 127, 255) ,#eabeff ,#fff);
+}
+img{     
+    padding-top: 10%; 
+    height:200px;
+
+    ;
+}
+footer{
+    font-family: 'Alumni Sans Pinstripe', sem serifa;
+   font-weight: 700;
+    padding-top: 10%;
+     color: rgb(0, 0, 0); 
+    text-align: center;
+
+
+}
